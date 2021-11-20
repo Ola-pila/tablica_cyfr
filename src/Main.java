@@ -31,13 +31,21 @@ public class Main {
 //      while (i<5){
 //          System.out.println(i);
 //          i++;
-//      }
+////      }
+//
+//        int j = 0;
+//        do{
+//            System.out.println(j);
+//            j++;}
+//        while (j<5);
+//        for (int i = 0; i < 10; i++) {
+//            if (i==5){
+//                continue;
+//            };
+//            System.out.println(i);
 
-        int j = 0;
-        do{
-            System.out.println(j);
-            j++;}
-        while (j<5);
+        }
+
         };
 
     }

@@ -17,17 +17,23 @@ public class Main {
 //        System.out.println(car);
 //    };
 
-        int day = 3;
-        switch (day){
-            case 1:
-                System.out.println("Monday");
-                break;
-            case 2:
-                System.out.println("Tuesday");
-                break;
-            default:
-                System.out.println("Weekend");
+//        int day = 3;
+//        switch (day){
+//            case 1:
+//                System.out.println("Monday");
+//                break;
+//            case 2:
+//                System.out.println("Tuesday");
+//                break;
+//            default:
+//                System.out.println("Weekend");
+      int i = 0;
+      while (i<5){
+          System.out.println(i);
+          i++;
+      }
+
         }
-    }
+
     }
 
